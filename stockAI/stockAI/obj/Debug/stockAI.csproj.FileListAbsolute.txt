@@ -1,0 +1,7 @@
+C:\Users\Farrukh Ergashev\Desktop\stockAI\stockAI\bin\Debug\stockAI.exe.config
+C:\Users\Farrukh Ergashev\Desktop\stockAI\stockAI\bin\Debug\stockAI.exe
+C:\Users\Farrukh Ergashev\Desktop\stockAI\stockAI\bin\Debug\stockAI.pdb
+C:\Users\Farrukh Ergashev\Desktop\stockAI\stockAI\obj\Debug\stockAI.csprojAssemblyReference.cache
+C:\Users\Farrukh Ergashev\Desktop\stockAI\stockAI\obj\Debug\stockAI.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh Ergashev\Desktop\stockAI\stockAI\obj\Debug\stockAI.exe
+C:\Users\Farrukh Ergashev\Desktop\stockAI\stockAI\obj\Debug\stockAI.pdb
